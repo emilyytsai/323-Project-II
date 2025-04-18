@@ -1,6 +1,6 @@
-## CPSC 323 - Project 2
+# CPSC 323 - Project 2
 
-# Group Members
+## Group Members
 - Duong Banh
 - Emily Tsai
 - Rith Sreng
